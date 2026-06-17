@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Beginner Guide Template",
+    "category": "guide",
+    "platform": "cross-platform",
+    "summary": "Reusable structure for introductory game guides.",
+    "tags": [
+      "template",
+      "guide"
+    ]
+  },
+  {
+    "title": "Patch Notes Index",
+    "category": "patch-notes",
+    "platform": "cross-platform",
+    "summary": "Template for release note aggregation.",
+    "tags": [
+      "updates",
+      "documentation"
+    ]
+  }
+]
