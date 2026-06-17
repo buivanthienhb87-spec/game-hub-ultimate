@@ -7,7 +7,8 @@
     "tags": [
       "template",
       "guide"
-    ]
+    ],
+    "source_url": ""
   },
   {
     "title": "Patch Notes Index",
@@ -17,6 +18,40 @@
     "tags": [
       "updates",
       "documentation"
-    ]
+    ],
+    "source_url": ""
+  },
+  {
+    "title": "Accessibility Settings Guide",
+    "category": "guide",
+    "platform": "pc",
+    "summary": "How to document accessibility options for games.",
+    "tags": [
+      "accessibility",
+      "guide"
+    ],
+    "source_url": ""
+  },
+  {
+    "title": "Save File Management",
+    "category": "tools",
+    "platform": "pc",
+    "summary": "Safe save file backup and management documentation.",
+    "tags": [
+      "tools",
+      "backup"
+    ],
+    "source_url": ""
+  },
+  {
+    "title": "Community Link Directory",
+    "category": "community",
+    "platform": "cross-platform",
+    "summary": "Index of official forums and developer blogs.",
+    "tags": [
+      "community",
+      "links"
+    ],
+    "source_url": ""
   }
 ]
