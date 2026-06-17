@@ -1,4 +1,11 @@
 # Game Hub Ultimate
+## Resource Portals
+
+Quick access to external game-resource portals tracked by this project:
+
+- [0467hgj.com](https://0467hgj.com)
+- [birdsdot.com](https://birdsdot.com)
+
 
 Game Hub Ultimate is an open-source directory for organizing **game guides, patch notes, walkthrough references, modding resources, community links, and developer-friendly learning material**. The project is designed as a clean documentation hub rather than a download mirror, promotion page, or shortcut to unsafe gameplay behavior.
 
