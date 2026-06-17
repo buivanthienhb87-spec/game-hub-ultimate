@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "game-hub-ultimate"
+version = "0.1.0"
+description = "Open-source game resource directory and documentation toolkit."
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [{name = "Community Maintainers"}]
+keywords = ["game guides", "documentation", "content directory"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
